@@ -1,2 +1,2 @@
-"Added learning.txt with course reflection"
+["What I have learned from this course"]
 echo "I've learned how to use Git and GitHub to manage code versions, collaborate with others, and create pull requests." > learning.txt
